@@ -1,4 +1,5 @@
 # Polyrythms? 
+https://laurenanastasia.github.io/Polyrhythms-/
 basically I would like to do a to do a 3/4 polyrythm with 2 balls 
 
 I think this will have something to do with the speeds in proportion to one aother, but I can't quite work out the math right now
